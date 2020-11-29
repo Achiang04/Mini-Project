@@ -116,6 +116,7 @@ const styles = StyleSheet.create({
     marginTop: 30,
     width: 350,
     borderColor: 'white',
+    color: "white"
   },
   btn1: {
     padding: 10,
